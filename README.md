@@ -5,7 +5,7 @@ Material Design Inspired Admin Theme Utilizing the [Materialize CSS](http://mate
 
 [logo]: https://github.com/briancwald/material_admin/blob/8.x-1.x/images/screenshot.png "Drupal Material Admin"
 
-## Dev Requirments 
+## Dev Requirements 
 [Yarn package manager](https://yarnpkg.com)
 
 ## Dev Setup 
